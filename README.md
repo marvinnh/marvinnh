@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvin Noah Hermawan</h1>
 <h3 align="center">Frontend Developer</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-13839287635814292878&psig=AOvVaw3XlEW9Dc-mHhUUjDDCFNph&ust=1697991303834000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDtptPEh4IDFQAAAAAdAAAAABAF">
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-13839287635814292878&psig=AOvVaw3XlEW9Dc-mHhUUjDDCFNph&ust=1697991303834000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDtptPEh4IDFQAAAAAdAAAAABAF">
 
 - 📫 How to reach me **marvin.nh03@gmail.com**
 
